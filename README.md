@@ -1,1 +1,1 @@
-# Highest-Value-Palindrome-ALGO-MEDIUM
+# Highest-Value-Palindrome-ALGO-MEDIUM.The program first converts the string into a palindrome using the minimal number of changes, then greedily maximizes the palindrome’s value by turning digits into '9' where possible, respecting the k change limit.
